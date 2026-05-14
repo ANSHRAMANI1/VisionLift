@@ -1,5 +1,5 @@
 ---
-title: CT Orchestrator
+title: VisionLift
 emoji: 🎬
 colorFrom: blue
 colorTo: purple
@@ -9,7 +9,7 @@ license: apache-2.0
 short_description: AI-powered creative testing for video ads
 ---
 
-# 🎬 Creative Testing Orchestrator
+# 🎬 VisionLift
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -20,7 +20,7 @@ A **multi-agent AI system** for automating creative testing workflows in media a
 
 ## 🌐 Try the Live Demo
 
-**[▶️ Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/akshargupta84/ct-orchestrator)**
+# **[▶️ Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/akshargupta84/-orchestrator)**
 
 The demo uses pre-scored sample videos so you can explore all features instantly. For live video scoring with your own creatives, follow the local installation guide below.
 
@@ -33,7 +33,7 @@ Brand lift studies are the gold standard for measuring creative effectiveness, b
 - **Slow**: 2-4 weeks for results
 - **High failure rate**: ~65% of creatives fail to show significant lift
 
-**CT Orchestrator** enables pre-screening of video creatives using AI, providing:
+**VisionLift** enables pre-screening of video creatives using AI, providing:
 - Pass/fail predictions before committing budget
 - Diagnostic scores (attention, brand recall, message clarity, etc.)
 - Actionable recommendations for creative optimization
@@ -91,8 +91,7 @@ Brand lift studies are the gold standard for measuring creative effectiveness, b
 ## 🚀 Quick Start
 
 ### Option 1: Try the Demo (No Installation)
-
-Visit the **[Live Demo](https://huggingface.co/spaces/akshargupta84/ct-orchestrator)** to explore with pre-scored sample videos.
+# Visit the **[Live Demo](https://huggingface.co/spaces/akshargupta84/ct-orchestrator)** to explore with pre-scored sample videos.
 
 ### Option 2: Run Locally with Full Features
 
@@ -124,8 +123,8 @@ ollama pull llava:13b  # Or llava:7b for less RAM
 
 ```bash
 # Clone the repository
-git clone https://github.com/akshargupta84/ct-orchestrator.git
-cd ct-orchestrator
+git clone https://github.com/ANSHRAMANI1/VisionLift.git
+cd VisionLift
 
 # Create virtual environment
 python -m venv venv
@@ -152,7 +151,7 @@ Open http://localhost:8501 in your browser.
 
 ## 🎥 Scoring Your Own Videos
 
-This is the core feature of CT Orchestrator. Here's how to analyze your video creatives:
+This is the core feature of VisionLift. Here's how to analyze your video creatives:
 
 ### Quick Python Script
 
@@ -219,7 +218,7 @@ print(f"\nProcessed {len(results)} videos!")
 ## 📁 Project Structure
 
 ```
-ct-orchestrator/
+VisionLift/
 ├── frontend/               # Streamlit application
 │   ├── app.py              # Main entry point
 │   └── pages/              # Multi-page navigation
