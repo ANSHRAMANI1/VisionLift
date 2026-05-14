@@ -18,9 +18,9 @@ short_description: AI-powered creative testing for video ads
 
 A **multi-agent AI system** for automating creative testing workflows in media agencies. Analyzes video ads using local vision models, predicts brand lift study outcomes, and generates actionable insights—replacing manual processes that typically cost $10K-$25K per study.
 
-// ## 🌐 Try the Live Demo
+<!-- ## 🌐 Try the Live Demo
 
-// **[▶️ Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/akshargupta84/ct-orchestrator)**
+// **[▶️ Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/akshargupta84/ct-orchestrator)** --> 
 
 The demo uses pre-scored sample videos so you can explore all features instantly. For live video scoring with your own creatives, follow the local installation guide below.
 
