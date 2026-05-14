@@ -90,10 +90,12 @@ Brand lift studies are the gold standard for measuring creative effectiveness, b
 
 ## 🚀 Quick Start
 
-### Option 1: Try the Demo (No Installation)
-# Visit the **[Live Demo](https://huggingface.co/spaces/akshargupta84/ct-orchestrator)** to explore with pre-scored sample videos.
+<!-- ### Option 1: Try the Demo (No Installation)
+# Visit the **[Live Demo](https://huggingface.co/spaces/akshargupta84/ct-orchestrator)** to explore with pre-scored sample videos. 
 
-### Option 2: Run Locally with Full Features
+### Option 2:--> 
+
+Run Locally with Full Features
 
 #### Prerequisites
 
@@ -338,4 +340,4 @@ Apache License 2.0 - see [LICENSE](LICENSE) file.
 
 ## 📧 Contact
 
-**Akshar Gupta** - [LinkedIn](https://linkedin.com/in/akshar-g-4093621b) - [GitHub](https://github.com/akshargupta84)
+**Need a custom AI workflow for ad performance analysis?** [Contact me on Upwork](https://www.upwork.com/freelancers/~0169dbb8a7f7cf38e6)
